@@ -5,6 +5,8 @@ This project was made in order to refactor the HTML and CSS of a webpage for a m
 
 ## Link:
 
+https://jbaek97.github.io/Horiseon_Refactor/
+
 ## Screenshots
 
 Screenshot of HTML:
